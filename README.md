@@ -1,6 +1,6 @@
 # Join us and build beautiful software at Jiminny.
 
-At [Jiminy](https://www.jiminny.com/), we’re in the business of enabling sales and success teams to communicate to their customers better, getting maximum value out of those conversations and building a coaching culture to learn and become more effective together. We’re looking for software developers and designers to join our team.
+At [Jiminny](https://www.jiminny.com/), we’re in the business of enabling sales and success teams to communicate to their customers better, getting maximum value out of those conversations and building a coaching culture to learn and become more effective together. We’re looking for software developers and designers to join our team.
 
 For all candidates, we kick off the interview process with a few questions via email. We think that this is a more fair and effective way to understand your skills, as compared to an in-person whiteboard interview.
 
@@ -20,5 +20,5 @@ To start, **we ask all candidates** to answer the following questions:
 
 Along with the above questions, we have different projects for software designers & developers:
 
-- [Take home problems for software **designers**](designer-questions.md)
-- [Take home problems for software **developers**](developer-questions.md)
+- [Take home problems for software **developers**](developer-task.md)
+- [Take home problems for software **designers**](designer-task.md)
