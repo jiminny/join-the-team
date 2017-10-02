@@ -11,7 +11,7 @@ There are tasks for both frontend and backend roles, each solving a real-life pr
 
 Write a program to consume the raw output from an audio silence detection [filter](https://ffmpeg.org/ffmpeg-filters.html#silencedetect) and convert it into a useful format.
 
-The raw output contains data about a conversation between two parties. 
+The raw output contains data about a real conversation between two parties on a conference call. 
 
 There is data for both the [`user` channel](https://rawgit.com/jiminny/join-the-team/master/assets/user-channel.txt), and the [`customer` channel](https://rawgit.com/jiminny/join-the-team/master/assets/customer-channel.txt). The data contains the following structure:
 
@@ -24,7 +24,7 @@ There is data for both the [`user` channel](https://rawgit.com/jiminny/join-the-
 1. For each channel, the data needs inverting to show when audio was active and stored as a series of points.
 For example, the above would translate to `[0, 1.84], [4.48, 26.928]`
 
-2. Determine the longest cosntant speech (monologue) for each channel.
+2. Determine the longest un-interrupted speech (monologue) for each channel.
 
 3. Determine the percentage of time the user talked over the entire call duration.
 
@@ -49,7 +49,7 @@ You'll need to return the following JSON structure:
 
 ## Waveform Visualizer (Frontend Task)
 
-You'll start with a real [JSON payload](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) from a conference call.
+You'll start with a [JSON payload](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) from a real conference call.
 
 Here you’ll interact with a REST API that returns information about a conversation between two parties.
 The response payload contains a simple array structure, the `user` channel, and the `customer` channel.
