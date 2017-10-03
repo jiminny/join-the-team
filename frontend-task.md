@@ -29,6 +29,9 @@ The data looks a bit like this:
   ]
 }
 ```
+You'll end up with something looking like this:
+
+[[https://github.com/jiminny/join-the-team/blob/master/assets/waveform.png|alt=waveform]]
 
 ## Requirements
 
@@ -36,7 +39,7 @@ Write a small component to consume the API and output a waveform (you can use sv
 
 1. Consume the API to read the waveform data.
 
-2. For each channel, output a waveform visualization in different colours
+2. For each channel, output a waveform visualization in different colours. Silent gaps should be transparent.
 
 3. Stack the channels with `user` on top, and `customer` below.
 
