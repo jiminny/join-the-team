@@ -34,8 +34,6 @@ You'll end up with something looking like this:
 
 ## Requirements
 
-Write a small component to consume the API and output a waveform (you can use svg or fixed sprites) to show a visualization for both channels, stacked on top of each other.
-
 1. Consume the API to read the waveform data.
 
 2. For each channel, output a waveform visualization in different colours. Silent gaps should be transparent.
