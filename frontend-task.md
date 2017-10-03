@@ -30,8 +30,7 @@ The data looks a bit like this:
 }
 ```
 You'll end up with something looking like this:
-
-[[https://github.com/jiminny/join-the-team/blob/master/assets/waveform.png|alt=waveform]]
+![waveform](./assets/waveform.png?raw=true "Waveform")
 
 ## Requirements
 
