@@ -8,12 +8,9 @@ We recommend writing answers in whatever language you’re most comfortable in. 
 
 ## Brief
 
-You'll start with a [JSON payload](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) from a real conference call.
+You'll start with a simple REST API that returns a [JSON payload](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) with data from a real conference call. The information is related to a conversation between two parties. 
 
-Here you’ll interact with a REST API that returns information about a conversation between two parties.
-The response payload contains a simple array structure, the `user` channel, and the `customer` channel.
-
-Each channel contains an array of points that indicate when the audio channel was active (speech started), and when speech stopped (the order is important).
+The response payload contains a simple array structure, the `user` channel, and the `customer` channel. Each channel contains an array of points that indicate when the audio channel was active (speech started), and when speech stopped (the order is important).
 
 The data looks a bit like this:
 
@@ -29,8 +26,6 @@ The data looks a bit like this:
   ]
 }
 ```
-You'll end up with something looking like this:
-![waveform](./assets/waveform.png?raw=true "Waveform")
 
 ## Requirements
 
@@ -41,6 +36,9 @@ You'll end up with something looking like this:
 3. Stack the channels with `user` on top, and `customer` below.
 
 4. Highlight the longest segment for each channel with a different colour.
+
+You'll end up with something looking like this:
+![waveform](./assets/waveform.png?raw=true "Waveform")
 
 ## Coding Standards
 
