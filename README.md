@@ -20,4 +20,5 @@ To start, **we ask all candidates** to answer the following questions:
 
 Along with the above questions, we have different projects for different roles:
 
-- [Take home problems for software **developers**](developer-task.md)
+- [Take home challenge for **frontend** engineers](frontend-task.md)
+- [Take home challenge for **backend** engineers](backend-task.md)
