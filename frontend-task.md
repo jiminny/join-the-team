@@ -40,6 +40,8 @@ You'll end up with something looking like this:
 
 3. Stack the channels with `user` on top, and `customer` below.
 
+4. Highlight the longest segment for each channel with a different colour.
+
 ## Coding Standards
 
 * Use git to version control the application
