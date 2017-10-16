@@ -35,7 +35,22 @@ The data looks a bit like this:
 
 3. Stack the channels with `user` on top, and `customer` below.
 
-4. Highlight the longest segment for each channel with a different colour.
+4. Hovering over waveform displays current time indicator (vertical line with time at the bottom).
+
+5. Clicking on waveform shows add comment popover.
+
+6. Enter key saves the comment to `localstorage`.
+
+7. Comments have a `lightgreen` circle representation between the channels on the waveform.
+
+8. Comments are rendered below waveform.
+
+9. Comments can be deleted.
+
+10. Implementation should be responsive.
+
+11. At least one e2e test and one unit test should be provided.
+
 
 You'll end up with something looking like this:
 ![waveform](./assets/waveform.png?raw=true "Waveform")
