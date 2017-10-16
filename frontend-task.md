@@ -2,7 +2,7 @@
 
 The task solves a real-life problem related to converting an audio file into a useful waveform. Waveforms are a key way for our customers to visualize speech data.
 
-We recommend writing answers in whatever language you’re most comfortable in. Like our own code, we expect testing instructions: whether it’s an automated test framework, or simple manual steps.
+We recommend writing answers in whatever language you’re most comfortable in, using a component based framework. Like our own code, we expect testing instructions: whether it’s an automated test framework, or simple manual steps.
 
 ---
 
