@@ -8,7 +8,7 @@ We recommend writing the solution in whatever language you’re most comfortable
 
 ## Brief
 
-The Web Conference product is an online meeting room where an organizer (e.g. the person hosting the meeting) can speak in real-time with up to 20 guests. Web Audio is provided to allow the guests to speak through their browser using Web RTC technology. Similarly, screen sharing and webcam features are available once a meeting has started.
+The Web Conference product is an online meeting room where an organizer (e.g. the person hosting the meeting) can speak in real-time with up to 50 guests. Web Audio is provided to allow the guests to speak through their browser using Web RTC technology. Similarly, screen sharing and webcam features are available once a meeting has started.
 
 The organizer needs to be present for the meeting to start, but guests can join at any time in a "waiting room". This task will focus on the waiting room functionality.
 
@@ -18,9 +18,9 @@ Write a program to connect two different guests to the conference. Guests are id
 
 ## Requirements
 
-1. Create a test to ensure an invalid email address cannot be used to join a Firefox user to the conference.
+1. Create a test to ensure an invalid email address cannot be used to join a Firefox 56+ user to the conference.
 
-2. Join two different Firefox users to the conference. They should be permitted to join the conference with valid credentials. 
+2. Join two different Firefox 56+ users to the conference. They should be permitted to join the conference with valid credentials. 
 
 3. Attempt to join another guest with Safari 10. They should not be permitted to join the conference, and instead the Conference App download instructions should appear.
 
@@ -28,9 +28,9 @@ Write a program to connect two different guests to the conference. Guests are id
 
 5. Guest 1 should post a chat message "Ping". Guest 2 should see this message, and reply with "Pong".
 
-6. Add Web Audio for both guests, ensuring the timer does not start once both are connected and on hold.
+6. Add Computer Audio for both guests, ensuring the timer does not start once both are connected.
 
-7. After being on hold for 10 seconds, both guests should logout and the login page should be visible again.
+7. After being on hold in the waiting room for 10 seconds, both guests should logout and the login page should be visible again.
 
 8. For every failure, a screenshot should be taken of the page.
 
