@@ -22,7 +22,7 @@ There is data for both the [`user` channel](https://rawgit.com/jiminny/join-the-
 
 ## Requirements
 
-1. For each channel, the data needs inverting to show when audio was active and stored as a series of points.
+1. For each channel, the data needs inverting to show when audio was active and stored as a series of points. This is based off `silence_start` and `silence_end` values.
 For example, the above would translate to `[0, 1.84], [4.48, 26.928]`
 
 2. Determine the longest un-interrupted speech (monologue) for each channel (stored as `longest_user_monologue` and `longest_customer_monologue`.
