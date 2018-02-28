@@ -6,7 +6,7 @@ At [Jiminny](https://www.jiminny.com/), we’re in the business of enabling sale
 We are hiring technical roles:
 - [Frontend Engineer](https://angel.co/jiminny/jobs/253287-frontend-engineer)
 - [Backend Engineer](https://angel.co/jiminny/jobs/253289-backend-engineer)
-- DevOps Engineer
+- [DevOps Engineer](https://angel.co/jiminny/jobs/336133-devops-engineer)
 
 ## What you'll get
 - Fantastic exposure to scaling a tech team at an incredible pace 
