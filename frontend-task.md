@@ -10,7 +10,7 @@ We recommend writing answers in whatever language you’re most comfortable in, 
 
 You'll start with a simple REST API that returns a [JSON payload](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) with data from a real conference call. The information is related to a conversation between two parties. 
 
-The response payload contains a simple array structure, the `user` channel, and the `customer` channel. Each channel contains an array of points (seconds) that indicate when the audio channel was active (speech started), and when speech stopped.
+The response payload contains a simple data structure, the `user` channel, and the `customer` channel. Each channel contains an array of points (seconds) that indicate when the audio channel was active (speech started), and when speech stopped. The highest point in the payload represents the total talk time.
 
 The data looks a bit like this:
 
