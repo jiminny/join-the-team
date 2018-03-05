@@ -49,7 +49,7 @@ The data looks a bit like this:
 
 
 You'll end up with something looking like this:
-![waveform](./assets/waveform.png?raw=true "Waveform")
+![waveform](https://raw.githubusercontent.com/jiminny/join-the-team/master/assets/waveform.png?1)
 
 ## Submission
 
