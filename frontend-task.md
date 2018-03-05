@@ -55,5 +55,4 @@ You'll end up with something looking like this:
 
 * Use git to version control the application
 * Include instructions in a README on how to run the application
-
-Please publish your submission to GitHub or [jsfiddle.net](https://jsfiddle.net/).
+* Please publish your submission to GitHub and share with us.
