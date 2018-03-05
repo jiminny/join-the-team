@@ -10,7 +10,7 @@ We recommend writing answers in whatever language you’re most comfortable in, 
 
 You'll start with a simple REST API that returns a [JSON payload](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) with data from a real conference call. The information is related to a conversation between two parties. 
 
-The response payload contains a simple array structure, the `user` channel, and the `customer` channel. Each channel contains an array of points that indicate when the audio channel was active (speech started), and when speech stopped (the order is important).
+The response payload contains a simple array structure, the `user` channel, and the `customer` channel. Each channel contains an array of points (seconds) that indicate when the audio channel was active (speech started), and when speech stopped.
 
 The data looks a bit like this:
 
@@ -29,7 +29,7 @@ The data looks a bit like this:
 
 ## Requirements
 
-1. Consume the API to read the waveform data.
+1. Fetch the JSON from the [API](https://rawgit.com/jiminny/join-the-team/master/assets/wavedata.json) via XHR to read the waveform data.
 
 2. For each channel, output a waveform visualization in different colours. Silent gaps should be transparent.
 
@@ -39,17 +39,13 @@ The data looks a bit like this:
 
 5. Clicking on waveform shows add comment popover.
 
-6. Enter key saves the comment to `localstorage`.
+6. Enter key saves the comment to `localstorage` and closes the comment popover.
 
-7. Comments have a `lightgreen` circle representation between the channels on the waveform.
+7. Comments are rendered below waveform.
 
-8. Comments are rendered below waveform.
+8. Comments can be deleted.
 
-9. Comments can be deleted.
-
-10. Implementation should be responsive.
-
-11. At least one e2e test and one unit test should be provided.
+9. Implementation should be responsive - waveform should fill the width.
 
 
 You'll end up with something looking like this:
@@ -60,8 +56,7 @@ You'll end up with something looking like this:
 * Use git to version control the application
 * Install a code linter and ensure it's passing
 * Scaffolding should not be used to generate any MVC code
-* Unit test validation rules
-* Include instructions in a README on how to run the application and how to run the test suite
+* Include instructions in a README on how to run the application
 
 ## Submission
 
