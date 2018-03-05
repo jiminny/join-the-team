@@ -51,13 +51,9 @@ The data looks a bit like this:
 You'll end up with something looking like this:
 ![waveform](./assets/waveform.png?raw=true "Waveform")
 
-## Coding Standards
+## Submission
 
 * Use git to version control the application
-* Install a code linter and ensure it's passing
-* Scaffolding should not be used to generate any MVC code
 * Include instructions in a README on how to run the application
-
-## Submission
 
 Please publish your submission to GitHub or [jsfiddle.net](https://jsfiddle.net/).
