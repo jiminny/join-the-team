@@ -37,9 +37,9 @@ The data looks a bit like this:
 
 4. Hovering over waveform displays current time indicator (vertical line with time at the bottom).
 
-5. Clicking on waveform shows add comment popover.
+5. Clicking on waveform shows add comment popover and time indicator.
 
-6. Enter key saves the comment to a data store (of your choice) and closes the comment popover.
+6. Enter key saves the comment and time to a data store (of your choice) and closes the comment popover.
 
 7. Comments are rendered below waveform.
 
