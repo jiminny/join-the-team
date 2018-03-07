@@ -22,7 +22,7 @@ There is data for both the [`user` channel](https://rawgit.com/jiminny/join-the-
 
 ## Requirements
 
-1. For each channel, the data needs inverting to show when audio was active and stored as a series of points. This is based off `silence_start` and `silence_end` values.
+1. For each channel, the data needs inverting to show when audio was active and stored as a series of points. This is based off `silence_start` and `silence_end` values. The unit of these values are seconds.
 For example, the above would translate to `[0, 1.84], [4.48, 26.928]`
 
 2. Determine the longest un-interrupted speech (monologue) for each channel (stored as `longest_user_monologue` and `longest_customer_monologue`.
@@ -50,10 +50,8 @@ For example, the above would translate to `[0, 1.84], [4.48, 26.928]`
 ## Coding Standards
 
 * Use git to version control the application
-* Install a code linter and ensure it's passing
 * Scaffolding should not be used to generate any MVC code
-* Unit test validation rules
-* Include instructions in a README on how to run the application and how to run the test suite
+* Include instructions in a README on how to run the application
 
 ## Submission
 
