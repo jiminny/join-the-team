@@ -8,11 +8,9 @@ We recommend writing answers in whatever language you’re most comfortable in. 
 
 ## Brief
 
-Write a program to consume the raw output from an audio silence detection [filter](https://ffmpeg.org/ffmpeg-filters.html#silencedetect) and convert it into a useful format for consumption by other APIs.
+Write a program to consume the raw output from an audio silence detection [filter](https://ffmpeg.org/ffmpeg-filters.html#silencedetect) and convert it into a useful format for consumption by other APIs. The `ffmpeg` command has been run for a sample call and we've linked the raw data for both the [`user` channel](https://rawgit.com/jiminny/join-the-team/master/assets/user-channel.txt), and the [`customer` channel](https://rawgit.com/jiminny/join-the-team/master/assets/customer-channel.txt).
 
-The raw output contains data about a real conversation between two parties on a conference call. 
-
-There is data for both the [`user` channel](https://rawgit.com/jiminny/join-the-team/master/assets/user-channel.txt), and the [`customer` channel](https://rawgit.com/jiminny/join-the-team/master/assets/customer-channel.txt). The data contains the following structure:
+The data contains data about a real conversation between two parties on a conference call with the following structure:
 
 ```
 [silencedetect @ 0x7fa7edd0c160] silence_start: 1.84
@@ -49,8 +47,8 @@ For example, the above would translate to `[0, 1.84], [4.48, 26.928]`
 
 ## Coding Standards
 
-* Use git to version control the application
-* Scaffolding should not be used to generate any MVC code
+* Ideally use git to version control the application
+* Scaffolding should not be used to generate any code
 * Include instructions in a README on how to run the application
 
 ## Submission
