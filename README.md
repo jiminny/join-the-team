@@ -1,4 +1,4 @@
-# Join us and build beautiful software at Jiminny
+# Join us and build beautiful software at Jiminny [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jiminny/jiminny)
 
 At [Jiminny](https://www.jiminny.com/), we’re in the business of enabling sales and success teams to communicate to their customers better, getting maximum value out of those conversations and building a coaching culture to learn and become more effective together. To help achieve this, we’re looking for talented engineers to join our team in Sofia, Bulgaria.
 
