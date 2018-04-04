@@ -18,6 +18,8 @@ The files contain data about a real conversation between two parties on a confer
 [silencedetect @ 0x7fa7edd0c160] silence_start: 26.928
 ```
 
+For simplicity, the largest point in the dataset represents the total duration of the call.
+
 ## Requirements
 
 1. For each channel, the data needs inverting to show when audio was active and stored as a series of points. This is based off `silence_start` and `silence_end` values. The unit of these values are seconds.
