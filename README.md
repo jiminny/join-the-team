@@ -19,7 +19,7 @@ We are hiring technical roles:
 You can view our stack in full at [Stackshare](https://stackshare.io/jiminny/jiminny).
 
 ## The interview process
-We do a initial screening, followed by a task and technical interview. You can read more about this in [our guide](interview-process.md) or just email us at [jobs@jiminny.com](mailto:jobs@jiminny.com) to get things started.
+We do an initial screening, followed by a task and technical interview. You can read more about this in [our guide](interview-process.md) or just email us at [jobs@jiminny.com](mailto:jobs@jiminny.com) to get things started.
 
 For all candidates, we ask you to complete a short take-home task. We think that this is a more fair and effective way to understand your skills, as compared to an in-person whiteboard interview.
 
