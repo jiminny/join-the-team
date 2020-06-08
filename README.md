@@ -11,7 +11,7 @@ We are hiring technical roles:
 ## What you'll get
 - Fantastic exposure to scaling a tech team at an incredible pace 
 - Top end machinery (we run on Macbook Pros) 
-- Amazing office near Vitosha metro 
+- Amazing central office on Shipka
 - Competitive salary 
 - Employee share ownership
 
