@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- drawn by Useddenim -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500">
+<title>TRAIN2</title>
+<g stroke="none" fill="black">
+ <circle cx="226" cy="19" r="19" />
+ <circle cx="275" cy="19" r="19" />
+ <rect x="100" y="44" rx="65" ry="65" width="300" height="370" />
+ <g fill="white">
+  <rect x="207" y="58" rx="11" ry="11" width="87" height="41" />
+  <rect x="136" y="112" rx="34" ry="34" width="229" height="111" />
+  <circle cx="166" cy="349" r="30" />
+  <circle cx="334" cy="349" r="30" />
+ </g>
+</g>
+<polyline points="96,530 162,432 338,432 404,530" stroke="black" stroke-width="36" fill="none" />
+</svg>

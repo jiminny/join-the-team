@@ -1,0 +1,16 @@
+{
+  "name": "trainspotting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmet Katranci <ahmet@katranci.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server ./journeys.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "minireset.css": "^0.0.6",
+    "moment": "^2.26.0",
+    "vuex": "^3.4.0"
+  }
+}

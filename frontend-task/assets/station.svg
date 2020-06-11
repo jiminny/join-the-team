@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="499.99997"
+   height="404.99997"
+   id="svg33083"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Mumbai Suburban Railway Logo.svg">
+  <metadata
+     id="metadata3023">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     id="namedview3021"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.91138214"
+     inkscape:cx="170.75806"
+     inkscape:cy="190.22762"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33083" />
+  <defs
+     id="defs33085" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#dc241f;stroke-width:70.11841583;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path33894"
+     d="m 417.44081,202.49999 a 167.44079,167.44079 0 0 1 -334.881586,0 167.44079,167.44079 0 1 1 334.881586,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="path15248"
+     d="m 0.77586201,264.86518 499.99995799,0 0,-116.92279 -499.99995799,0 0,116.92279 z" />
+  <path
+     d="m 0,148.00732 499.99996,0 0,-10.27602 -499.99996,0 0,10.27602 z"
+     id="path3810"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m -1.7241367,275.98282 503.1034067,0 0,-12.60361 -503.1034067,0 0,12.60361 z"
+     id="path3810-4"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     inkscape:connector-curvature="0" />
+</svg>

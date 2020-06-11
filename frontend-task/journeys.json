@@ -1,0 +1,88 @@
+{
+  "journeys": [
+    {
+      "name": "London Kings Cross to Royston",
+      "route": "Thameslink",
+      "train": {
+        "id": "319372",
+        "name": "Class 319372"
+      },
+      "timetable": [
+        { "time": "2020-06-04T09:00:00Z", "station": "London Kings Cross" },
+        { "time": "2020-06-04T09:05:00Z", "station": "Finsbury Park" },
+        { "time": "2020-06-04T09:17:00Z", "station": "Potters Bar" },
+        { "time": "2020-06-04T09:23:00Z", "station": "Hatfield (Herts)" },
+        { "time": "2020-06-04T09:27:00Z", "station": "Welwyn Garden City" },
+        { "time": "2020-06-04T09:32:00Z", "station": "Welwyn North" },
+        { "time": "2020-06-04T09:36:00Z", "station": "Knebworth" },
+        { "time": "2020-06-04T09:40:00Z", "station": "Stevenage" },
+        { "time": "2020-06-04T09:45:00Z", "station": "Hitchin" },
+        { "time": "2020-06-04T09:50:00Z", "station": "Letchworth Garden City" },
+        { "time": "2020-06-04T09:54:00Z", "station": "Baldock" },
+        { "time": "2020-06-04T09:59:00Z", "station": "Ashwell & Morden" },
+        { "time": "2020-06-04T10:05:00Z", "station": "Royston" }
+      ]
+    },
+    {
+      "name": "London Kings Cross to York",
+      "route": "London North Eastern Railway",
+      "train": {
+        "id": "6619",
+        "name": "Class 6619"
+      },
+      "timetable": [
+        { "time": "2020-06-04T09:00:00Z", "station":	"London Kings Cross" },
+        { "time": "2020-06-04T09:47:00Z", "station":	"Peterborough" },
+        { "time": "2020-06-04T10:08:00Z", "station":	"Grantham" },
+        { "time": "2020-06-04T10:21:00Z", "station":	"Newark North Gate" },
+        { "time": "2020-06-04T10:51:00Z", "station":	"Doncaster" },
+        { "time": "2020-06-04T11:00:00Z", "station":	"York" }
+      ]
+    },
+    {
+      "name": "London Kings Cross to Cambridge",
+      "route": "Thameslink",
+      "train": {
+        "id": "314212",
+        "name": "Class 314212"
+      },
+      "timetable": [
+        { "time": "2020-06-04T09:00:00Z", "station":	"London Kings Cross" },
+        { "time": "2020-06-04T09:05:00Z", "station":	"Finsbury Park" },
+        { "time": "2020-06-04T09:17:00Z", "station":	"Potters Bar" },
+        { "time": "2020-06-04T09:23:00Z", "station":	"Hatfield (Herts)" },
+        { "time": "2020-06-04T09:27:00Z", "station":	"Welwyn Garden City" },
+        { "time": "2020-06-04T09:32:00Z", "station":	"Welwyn North" },
+        { "time": "2020-06-04T09:36:00Z", "station":	"Knebworth" },
+        { "time": "2020-06-04T09:40:00Z", "station":	"Stevenage" },
+        { "time": "2020-06-04T09:45:00Z", "station":	"Hitchin" },
+        { "time": "2020-06-04T09:51:00Z", "station":	"Letchworth Garden City" },
+        { "time": "2020-06-04T09:54:00Z", "station":	"Baldock" },
+        { "time": "2020-06-04T09:59:00Z", "station":	"Ashwell & Morden" },
+        { "time": "2020-06-04T10:03:00Z", "station":	"Royston" },
+        { "time": "2020-06-04T10:07:00Z", "station":	"Meldreth" },
+        { "time": "2020-06-04T10:11:00Z", "station":	"Shepreth" },
+        { "time": "2020-06-04T10:15:00Z", "station":	"Foxton" },
+        { "time": "2020-06-04T10:26:00Z", "station":	"Cambridge" }
+      ]
+    },
+    {
+      "name": "London Kings Cross to Stevenage",
+      "route": "Thameslink",
+      "train": {
+        "id": "66602",
+        "name": "Class 66602"
+      },
+      "timetable": [
+        { "time": "2020-06-04T09:00:00Z", "station":	"London Kings Cross" },
+        { "time": "2020-06-04T09:05:00Z", "station":	"Finsbury Park" },
+        { "time": "2020-06-04T09:17:00Z", "station":	"Potters Bar" },
+        { "time": "2020-06-04T09:23:00Z", "station":	"Hatfield (Herts)" },
+        { "time": "2020-06-04T09:27:00Z", "station":	"Welwyn Garden City" },
+        { "time": "2020-06-04T09:32:00Z", "station":	"Welwyn North" },
+        { "time": "2020-06-04T09:36:00Z", "station":	"Knebworth" },
+        { "time": "2020-06-04T09:40:00Z", "station":	"Stevenage" }
+      ]
+    }
+  ]
+}
