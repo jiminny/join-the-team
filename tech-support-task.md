@@ -12,11 +12,9 @@ Imagine a customer is looking for help and asks us the following questions. How 
 
 2. I joined the conference and microphone is not working, the guests cannot hear me!
 
+3. I had a meeting and it was not recorded! Please help!
 
-## Verbal Exercise
-During one of your interviews with us, we'll ask you to role-play this scenario. 
-
-1. Imagine you're on a call with an irate customer and they demand to know why their laptop is running so slow during conference calls. How do you respond?
+4. Imagine you’re on a call with an irate customer and they demand to know why their laptop is running so slow during conference calls. How do you respond?
 
 ## Submission
 
