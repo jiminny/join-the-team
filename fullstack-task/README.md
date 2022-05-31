@@ -68,7 +68,6 @@ There is color coding applied to the labels with the following rules:
 ## Coding Standards
 
 - Ideally use git to version control the application
-- Scaffolding should not be used to generate any code
 - Include instructions in a README on how to run the application
 
 ## Submission
