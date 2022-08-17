@@ -48,8 +48,7 @@ Our form contains the following inputs**:
 2. Changing the value of <b>Saved Searches</b> should populate the values of the other inputs depending on what's selected.
 3. In order to submit the form <b>at least one</b> filter input** must have a value.
 4. When the form is submitted, all the meetings should be filtered using the data from the form. The criteria for input value to meeting property goes as it follows: Platform => platform, Team Member => teamMember, Customer => customer.
-
-5.Redirect the user to the second screen and list all the filtered meetings.
+5. Redirect the user to the second screen and list all the filtered meetings.
 
 ** Filter inputs are inputs located below the <b>Filter</b> section.
 
