@@ -1,0 +1,102 @@
+[
+  {
+    "title" : "Alice & Beyond Meat Strategy Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-08-05T13:41:26+00:00",
+    "createdAt" : "2022-08-05T13:00:16+00:00",
+    "timeAgo" : "2 weeks ago",
+    "platform" : "Salesforce",
+    "teamMember" : "Alice",
+    "customer" : "Beyond Meat"
+  },
+  {
+    "title" : "Tom & Go Daddy Strategy Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-06-05T13:41:26+00:00",
+    "createdAt" : "2022-06-05T13:00:16+00:00",
+    "timeAgo" : "3 days ago",
+    "platform" : "Salesforce",
+    "teamMember" : "Tom",
+    "customer" : "Go Daddy"
+  },
+  {
+    "title" : "Alice & Beyond Meat Training Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-08-05T13:41:26+00:00",
+    "createdAt" : "2022-08-05T13:00:16+00:00",
+    "timeAgo" : "1 week ago",
+    "platform" : "Salesforce",
+    "teamMember" : "Alice",
+    "customer" : "Beyond Meat"
+  },
+  {
+    "title" : "Tom & Go Daddy Training Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-08-05T13:41:26+00:00",
+    "createdAt" : "2022-08-05T13:00:16+00:00",
+    "timeAgo" : "2 weeks ago",
+    "platform" : "Salesforce",
+    "teamMember" : "Tom",
+    "customer" : "Go Daddy"
+  },
+  {
+    "title" : "Lauren & British Airways Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-05-05T13:41:26+00:00",
+    "createdAt" : "2022-05-05T13:00:16+00:00",
+    "timeAgo" : "5 months ago",
+    "platform" : "HubSpot",
+    "teamMember" : "Lauren",
+    "customer" : "British Airways"
+  },
+  {
+    "title" : "Lauren & British Airways Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-05-05T13:41:26+00:00",
+    "createdAt" : "2022-05-05T13:00:16+00:00",
+    "timeAgo" : "5 months ago",
+    "platform" : "HubSpot",
+    "teamMember" : "Lauren",
+    "customer" : "British Airways"
+  },
+  {
+    "title" : "Tom & British Airways Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-01-05T13:41:26+00:00",
+    "createdAt" : "2022-01-05T13:00:16+00:00",
+    "timeAgo" : "1 day ago",
+    "platform" : "HubSpot",
+    "teamMember" : "Tom",
+    "customer" : "British Airways"
+  },
+  {
+    "title" : "Alice & British Airways Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-05-05T13:41:26+00:00",
+    "createdAt" : "2022-05-05T13:00:16+00:00",
+    "timeAgo" : "1 day ago",
+    "platform" : "HubSpot",
+    "teamMember" : "Alice",
+    "customer" : "British Airways"
+  },
+  {
+    "title" : "Tom & British Airways Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-08-05T13:41:26+00:00",
+    "createdAt" : "2022-08-05T13:00:16+00:00",
+    "timeAgo" : "1 day ago",
+    "platform" : "HubSpot",
+    "teamMember" : "Tom",
+    "customer" : "British Airways"
+  },
+  {
+    "title" : "Tom & Beyond Meat Strategy Session",
+    "userPhoto": "https://api.lorem.space/image/face?w=150&h=150",
+    "notetakerAddedOn" : "2022-08-05T13:41:26+00:00",
+    "createdAt" : "2022-08-05T13:00:16+00:00",
+    "timeAgo" : "3 weeks ago",
+    "platform" : "Salesforce",
+    "teamMember" : "Tom",
+    "customer" : "Beyond Meat"
+  }
+]
