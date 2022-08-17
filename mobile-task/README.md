@@ -22,10 +22,10 @@ Each object has the same number of properties, all required and represents a mee
 
 Inside <b>assets/saved_search.json</b> file you'll find an array with pre-defined search criteria.
 Our reps use this to reduce the time spent on common searches.
-All properties except <b>title</b> might be null.
+All properties except <b>title</b> can be null.
 > {
 "title" : "Lauren Sessions",
-"teamMember": "Lauren"|null",
+"teamMember": "Lauren"|null,
 "platform": "Salesforce"|null,
 "customer": "BMW"|null
 }
@@ -48,7 +48,7 @@ Our form contains the following inputs**:
 2. Changing the value of <b>Saved Searches</b> should populate the values of the other inputs depending on what's selected.
 3. In order to submit the form <b>at least one</b> filter input** must have a value.
 4. When the form is submitted, all the meetings should be filtered using the data from the form. The criteria for input value to meeting property goes as it follows: Platform => platform, Team Member => teamMember, Customer => customer.
-   5.Redirect the user to the second screen and list all the filtered meetings.
+5.Redirect the user to the second screen and list all the filtered meetings.
 
 ** Filter inputs are inputs located below the <b>Filter</b> section.
 
