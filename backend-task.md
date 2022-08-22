@@ -49,10 +49,21 @@ For example, the above would translate to `[0, 1.84], [4.48, 26.928]`
 
 ## Coding Standards
 
-* Ideally use git to version control the application
+* Use git to version control the application
 * Scaffolding should not be used to generate any code
+* Not using a web framework is an advantage
 * Include instructions in a README on how to run the application
+
+The solution would be reviewed with best practices in mind. These would include but won't be limited to the following:
+
+* PSR compliance
+* strict types, property types, return types, etc
+* composer (autoloading, platform requirements, dependencies)
+* Unit tests /w test doubles
+* IoC friendly code
+
+Make sure your solution is able to run on a [supported version](https://www.php.net/supported-versions.php) of PHP.
 
 ## Submission
 
-Please publish your submission to GitHub or email us a zip or tarball of your prototype.
+Please publish your submission to GitHub/GitLab/BitBucket in a non-publicly available repository.
