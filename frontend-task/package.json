@@ -8,7 +8,7 @@
     "start": "json-server ./journeys.json"
   },
   "dependencies": {
-    "json-server": "^0.16.1",
+    "json-server": "^1.0.0-alpha.23",
     "minireset.css": "^0.0.6",
     "moment": "^2.29.4",
     "vuex": "^3.4.0"
