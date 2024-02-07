@@ -1,0 +1,20 @@
+[
+  {
+    "title" : "Good Objection Handling",
+    "platform": "Salesforce",
+    "teamMember": "Tom",
+    "customer": "British Airways"
+  },
+  {
+    "title" : "Alice & British Airways",
+    "platform": null,
+    "teamMember": "Tom",
+    "customer": "British Airways"
+  },
+  {
+    "title" : "Lauren Sessions",
+    "teamMember": "Lauren",
+    "platform": null,
+    "customer": null
+  }
+]
